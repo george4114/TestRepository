@@ -6,7 +6,7 @@ Internet-Draft                                                    Qosmos
 Intended status: Informational                        September 19, 2014
 Expires: March 21, 2015
 
-                       Metadata transport in SFC
+                       METADATA transport in SFC
                       draft-bouthors-sfc-md-00.txt
 
 Abstract
